@@ -1,7 +1,7 @@
 ## Hi there 👋
 🔭 I’m currently working on java spring, kafka, graphql, aws and azure.
 
-🌱 & learning frontend technologies
+🌱 exploring frontend technologies
 <!--
 **naveens441/naveens441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
